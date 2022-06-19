@@ -10,6 +10,7 @@ const RESOURCES = {
 "icons/web_icon_512.png": "389b807205be9e73fc29f1dfbb0ca6a9",
 "icons/web_icon_192.png": "b0703134fb41fb68d977a66498fd4c8d",
 "manifest.json": "6e9aa0acec4937f74ebb0a10aa727ca6",
+"assets/web/assets/web/assets/web/assets/web/assets/web/assets/web/assets/web/assets/data.json": "dbb78a3b4cde902a18c9c35a27833542",
 "assets/web/assets/web/assets/web/assets/web/assets/web/assets/web/assets/data.json": "dbb78a3b4cde902a18c9c35a27833542",
 "assets/web/assets/web/assets/web/assets/web/assets/web/assets/data.json": "dbb78a3b4cde902a18c9c35a27833542",
 "assets/web/assets/web/assets/web/assets/web/assets/data.json": "dbb78a3b4cde902a18c9c35a27833542",
