@@ -32712,7 +32712,7 @@ s[m]=new A.qb($.ao3[m],$.ao4[m],l,k,new A.xW(i,g,f,$.ao2[m],j),j)}return A.aU(j,
 A.xW.prototype={
 F(a,b){var s=this,r=null,q=s.c,p=q.c?B.j:B.h,o=s.e<900?1.5:1.8
 o=A.c4(s.f,r,A.bk(p,s.d*0.015,B.u,o,2),r,r)
-return A.cR(A.b([o,B.tU,A.aU(r,r,B.k,q.c?B.r.h(0,400):B.r.h(0,100),r,r,r,0.5,r,r,r,r,250),B.tU,A.aN(A.pB(B.MD,B.H,r,new A.a2w(s,b,new A.a2x()),r),40,150)],t.p),B.v,B.cd,B.y)}}
+return A.cR(A.b([o,B.tU,A.aU(r,r,B.k,q.c?B.r.h(0,400):B.r.h(0,100),r,r,r,0.5,r,r,r,r,250),B.tU,A.aN(A.pB(B.ME,B.H,r,new A.a2w(s,b,new A.a2x()),r),40,150)],t.p),B.v,B.cd,B.y)}}
 A.a2x.prototype={
 $0(){var s=0,r=A.S(t.z),q,p,o
 var $async$$0=A.O(function(a,b){if(a===1)return A.P(b,r)
@@ -32738,7 +32738,7 @@ s=A.av6(r,q)
 return A.pH(r,!0).un(A.aup(B.A,!0,null,new A.a2v(this.a,r,this.c),r,null,s,!0,t.z))},
 $S:0}
 A.a2v.prototype={
-$1(a){var s=null,r=this.a.c,q=r.c?B.h:B.r.h(0,900),p=A.fD(s,s,r.c?B.j:B.h,s,s,s,s,s,s,s,s,32,s,s,s,s,!0,s,s,s,s,s,s,s,s),o=t.p,n=A.b([A.axe(B.MC,new A.a2s(this.b),s)],o)
+$1(a){var s=null,r=this.a.c,q=r.c?B.h:B.r.h(0,900),p=A.fD(s,s,r.c?B.j:B.h,s,s,s,s,s,s,s,s,32,s,s,s,s,!0,s,s,s,s,s,s,s,s),o=t.p,n=A.b([A.axe(B.MD,new A.a2s(this.b),s)],o)
 return new A.ok(new A.dw("Hire Me!",p,s,s),A.cR(A.b([A.ajx(B.yU,A.bQ(B.Dc,B.v,B.t,B.ae),40,new A.a2t(this.c)),B.IB,A.ajx(B.yL,A.bQ(B.CE,B.v,B.t,B.ae),40,new A.a2u())],o),B.v,B.cd,B.ae),n,q,s)},
 $S:361}
 A.a2s.prototype={
@@ -32810,7 +32810,7 @@ A.F4.prototype={
 F(a,b){var s,r=null,q=A.d9(b,t.A),p=t.w,o=b.E(p).f.a.b
 p=b.E(p).f
 s=q.c?B.h:B.r.h(0,900)
-return A.aU(r,A.lX(A.bQ(A.b([new A.dw("Developed in \ud83d\udc99 with ",A.bk(q.c?B.j:B.h,r,B.ax,r,r),r,r),A.mp(!1,!0,B.MF,r,!0,r,r,r,r,r,r,r,r,r,new A.VH(),r,r,r)],t.p),B.v,B.t,B.ae),r,r),B.k,s,r,r,r,o*0.07,new A.ax(0,o*0.05,0,0),r,r,r,p.a.a)}}
+return A.aU(r,A.lX(A.bQ(A.b([new A.dw("Developed in \ud83d\udc99 with ",A.bk(q.c?B.j:B.h,r,B.ax,r,r),r,r),A.mp(!1,!0,B.MC,r,!0,r,r,r,r,r,r,r,r,r,new A.VH(),r,r,r)],t.p),B.v,B.t,B.ae),r,r),B.k,s,r,r,r,o*0.07,new A.ax(0,o*0.05,0,0),r,r,r,p.a.a)}}
 A.VH.prototype={
 $0(){return A.fM("https://github.com/LaPyaeOo/LaPyaeOo-portfolio.github.io")},
 $S:0}
@@ -66420,8 +66420,8 @@ B.BV=new A.b4(36,"EM")
 B.Db=A.b(s([B.Br,B.Bs,B.BD,B.BO,B.BW,B.BX,B.BY,B.BZ,B.lS,B.C_,B.Bt,B.Bu,B.Bv,B.Bw,B.Bx,B.By,B.Bz,B.BA,B.BB,B.BC,B.BE,B.BF,B.BG,B.BH,B.BI,B.BJ,B.BK,B.BL,B.BM,B.BN,B.BP,B.BQ,B.BR,B.BS,B.BT,B.BU,B.BV]),A.a5("t<b4>"))
 B.AJ=new A.Fl(61664,"FontAwesomeRegular","font_awesome_flutter",!1)
 B.B2=new A.e5(B.AJ,null,null,null)
-B.ME=new A.it("Gmail",null,null,null,null,null,null)
-B.Dc=A.b(s([B.B2,B.tT,B.ME]),t.p)
+B.MF=new A.it("Gmail",null,null,null,null,null,null)
+B.Dc=A.b(s([B.B2,B.tT,B.MF]),t.p)
 B.f5=A.b(s(["https://img.icons8.com/material-rounded/384/ffffff/github.png","https://img.icons8.com/metro/26/undefined/stackoverflow.png","https://img.icons8.com/metro/308/ffffff/linkedin.png","https://img.icons8.com/metro/208/ffffff/facebook-new--v2.png"]),t.s)
 B.Dg=A.b(s(["click","scroll"]),t.s)
 B.Dh=A.b(s([]),t.iW)
@@ -67963,11 +67963,11 @@ B.LM=new A.r(!0,B.h,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.Kf=new A.r(!0,B.h,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.MB=new A.dD(B.JF,B.Ll,B.Ly,B.Mc,B.KV,B.K2,B.Ls,B.KY,B.L5,B.LU,B.Kc,B.Mh,B.KQ,B.LM,B.Kf)
 B.uf=new A.yx(1,"longestLine")
-B.MC=new A.it("Back",null,null,null,null,null,null)
-B.M4=new A.r(!0,B.h,null,null,null,null,16,B.b7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.MD=new A.it("HIRE ME!",null,B.M4,null,null,null,null)
 B.JH=new A.r(!0,B.fv,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.MF=new A.it("Flutter",null,B.JH,null,null,null,null)
+B.MC=new A.it("Flutter by La Pyae",null,B.JH,null,null,null,null)
+B.MD=new A.it("Back",null,null,null,null,null,null)
+B.M4=new A.r(!0,B.h,null,null,null,null,16,B.b7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.ME=new A.it("HIRE ME!",null,B.M4,null,null,null,null)
 B.Pq=new A.Jn(0,"system")
 B.MH=new A.yz(null)
 B.ug=new A.Jp(0,"clamp")
